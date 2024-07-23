@@ -1,1 +1,26 @@
 /*  your css code here. If applicable */
+.container {
+    background-color: #D3D3D3;
+    padding: 10px;
+}
+.nav-bar ul{
+	display:flex;
+	
+}
+.nav-bar ul li{
+	margin-right:1rem;
+}
+/* Style for the navigation list */
+.nav-bar ul {
+    list-style: none; /* Remove bullets from list items */
+    padding: 0;
+}
+
+/* Style for list items displayed horizontally */
+
+
+/* Style for links within list items */
+.nav-bar li a {
+    text-decoration: none; /* Remove underline from links */
+    color: #000; /* Set link color */
+}
